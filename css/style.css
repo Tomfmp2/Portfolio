@@ -1,0 +1,49 @@
+/* 'black': {
+    '50': '#f6f6f6',
+    '100': '#e7e7e7',
+    '200': '#d1d1d1',
+    '300': '#b0b0b0',
+    '400': '#888888',
+    '500': '#6d6d6d',
+    '600': '#5d5d5d',
+    '700': '#4f4f4f',
+    '800': '#454545',
+    '900': '#3d3d3d',
+    '950': '#000000',
+}, */
+
+body{
+    background-color: #3d3d3d;
+    color: #f6f6f6;
+}
+#main-block{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    height: 100%;
+
+}
+#img-block{
+    overflow: hidden;
+    background-color: #000000;
+    border-radius: 160px;
+    background-color: #6d6d6d;
+}
+#first-block{
+    width: 20%;
+    height: 100%;
+    border-right: solid 2px  #000000;
+    font-size: 1.5vw;
+}
+#second-block{
+    background-color: #6d6d6d;
+    width: 40%;
+    height: 100%;
+    border-right: solid 2px  #000000;
+}
+#third-block{
+    background-color: #6d6d6d;
+    width: 40%;
+    height: 100%;
+    border-right: solid 2px  #000000;
+}
