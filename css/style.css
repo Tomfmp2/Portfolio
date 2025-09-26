@@ -1,49 +1,98 @@
 /* 'black': {
-    '50': '#f6f6f6',
-    '100': '#e7e7e7',
-    '200': '#d1d1d1',
-    '300': '#b0b0b0',
-    '400': '#888888',
-    '500': '#6d6d6d',
-    '600': '#5d5d5d',
-    '700': '#4f4f4f',
-    '800': '#454545',
-    '900': '#3d3d3d',
+    '50': '#E7F3FE',
+    '100': '#BBDFFC',
+    '200': '#8FCAFA',
+    '300': '#2798F5',
+    '400': '#0B8BF4',
+    '500': '#0972C8',
+    '600': '#07599C',
+    '700': '#054070',
+    '800': '#032744',
+    '900': '#010E18',
     '950': '#000000',
 }, */
 
 body{
-    background-color: #3d3d3d;
-    color: #f6f6f6;
+    background-color: #D9D9D9 ;
+    color: #E7F3FE;
+    margin: 0px;
+}
+hr{
+	margin: 0px;
 }
 #main-block{
+    margin: 0px;
     width: 100%;
     height: 100%;
+    border-radius: 8px ;
+    position: absolute;
     display: flex;
-    height: 100%;
-
-}
-#img-block{
-    overflow: hidden;
-    background-color: #000000;
-    border-radius: 160px;
-    background-color: #6d6d6d;
 }
 #first-block{
-    width: 20%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    width: 22%;
     height: 100%;
-    border-right: solid 2px  #000000;
-    font-size: 1.5vw;
+    background-color: #032744;
+    border-right: solid 2px #010E18;
+    font-size: 20px;
+    overflow: hidden;
+}
+#img-block{
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+}
+img{
+	align-items: center;
+	width: 210px ;
+	height: 210px;
+	border-radius: 50%;
+	object-fit: cover;
+}
+#first-text-block{
+	overflow: hidden;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+#titles-first-block{
+	margin: 0;
+	text-align: center;
+}
+#name{
+	position: relative;
+	margin: 2px;
+	text-align: center;
+	font-size: 10px;	
+}
+#description{
+	position: relative;
+	bottom: 10px;
+	margin: 2px;
+	text-align: center;
+	font-size: 10px;
+}
+#first-titles{
+	text-align: center;
 }
 #second-block{
-    background-color: #6d6d6d;
-    width: 40%;
+    margin: 0px;
+    width: 39%;
     height: 100%;
-    border-right: solid 2px  #000000;
+    border-right: solid 2px  #010E18;
+    color: #010E18;
 }
 #third-block{
-    background-color: #6d6d6d;
-    width: 40%;
+    margin: 0px;
+    width: 39%;
     height: 100%;
-    border-right: solid 2px  #000000;
+    color: #010E18;
+    text-align: center;
+}
+.inf-personal{
+	font-size: 20px;
 }
