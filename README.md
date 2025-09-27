@@ -4,19 +4,15 @@
 
 ## ✨ Características
 
-- 🎨 Diseño moderno y atractivo
-- 📱 Completamente responsivo
-- ⚡ Optimizado para rendimiento
+- 🎨 Diseño moderno y atracti
 - 🌙 Modo oscuro/claro (si aplica)
 - 🎯 Navegación suave y intuitiva
 - 📧 Formulario de contacto funcional
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Framework/Librería:** [Especificar si usas React, Vue, etc.]
-- **Estilos:** CSS personalizado / Sass / Tailwind CSS
-- **Animaciones:** CSS Animations / JavaScript
+- **Frontend:** HTML5, CSS3
+- **Estilos:** CSS personalizado 
 - **Hosting:** Netlify
 - **Control de versiones:** Git & GitHub
 
@@ -67,28 +63,11 @@ Portfolio/
 - **💼 Proyectos:** Showcase de mis trabajos más destacados
 - **📞 Contacto:** Información de contacto y formulario
 
-## 🎯 Proyectos Destacados
-
-Aquí muestro algunos de mis proyectos más relevantes:
-
-- **Proyecto 1:** Breve descripción
-- **Proyecto 2:** Breve descripción  
-- **Proyecto 3:** Breve descripción
-
-*Cada proyecto incluye enlaces al código fuente y demo en vivo.*
-
-## 📱 Responsividad
-
-El portafolio está optimizado para:
-- 📱 Dispositivos móviles (320px+)
-- 📱 Tablets (768px+)
-- 💻 Escritorio (1024px+)
-- 🖥️ Pantallas grandes (1440px+)
 
 ## ⚡ Optimizaciones
 
 - Imágenes optimizadas y comprimidas
-- Código CSS y JavaScript minificado
+- Código CSS 
 - Carga diferida de imágenes
 - Meta tags para SEO
 - Tiempo de carga optimizado
@@ -112,13 +91,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 **Tom Developer**
 - GitHub: [@Tomfmp2](https://github.com/Tomfmp2)
 - LinkedIn: [Tu perfil de LinkedIn]
-- Email: [tu-email@ejemplo.com]
-
-## 🌟 Acknowledgments
-
-- Inspiración de diseño de [fuentes de inspiración]
-- Iconos de [fuente de iconos]
-- Imágenes de [fuente de imágenes]
+- Email: [tom.pradamd@gmail.com]
 
 ---
 
